@@ -4,6 +4,7 @@ Download the zip file of the repository and then extract it. Go to the extracted
 
 1. npm install
 2. npm start
+3. https://localhost:3000/
 
 To build
 
